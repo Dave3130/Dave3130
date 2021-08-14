@@ -23,15 +23,15 @@
 # &#x1f4c8; GitHub Stats
 
 <div align="center">
-<img align="left" style="padding-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dave3130&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dave3130" /></p>
+<img style="padding-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dave3130&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dave3130" /></p>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dave3130&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&show_icons=true&theme=radical" alt="Jaydeep's Github Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Dave3130&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&show_icons=true&theme=radical" alt="Jaydeep's Github Stats">
  
  </div>
  <br />
  
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dave3130&theme=radical" alt="Dave3130" /> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave3130&theme=radical" alt="Dave3130" /> 
 </div>
 
 <br />
