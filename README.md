@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave3130&label=Profile%20views&color=0e75b6&style=flat" alt="dave3130" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dave3130)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working at **Media.net** as a **Web Application Developer**
 - 👯 I’m looking to collaborate on Open Source Projects
 - 👨‍💻 Have a look at my portfolio [https://jaydeepdave.netlify.app/](https://jaydeepdave.netlify.app/)
